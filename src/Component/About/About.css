@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  /* font-family: "Fredoka One", cursive; */
+  font-family: "Roboto", sans-serif;
+}
+.aboutbox {
+  width: 90vw;
+  border: 1px solid rgb(102, 99, 99);
+}
+.abouttxt {
+  display: block;
+  position: relative;
+}
+
+h1 {
+  display: inline-block;
+  color: white;
+  position: absolute;
+  font-family: "Fredoka One", cursive;
+}
+.txt1 {
+  display: block;
+  position: relative;
+  font-family: "Fredoka One", cursive;
+}
+.box {
+  display: inline-block;
+}
+
+.b2 {
+  display: inline-block;
+  position: relative;
+  margin: 0.3rem;
+  width: 90%;
+}
+.para {
+  display: inline-block;
+  font-size: 1.3rem;
+}

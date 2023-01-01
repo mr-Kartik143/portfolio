@@ -1,0 +1,65 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", sans-serif;
+}
+
+.mainbox {
+  width: 90vw;
+  border: 1px solid rgb(102, 99, 99);
+}
+.skilltxt {
+  display: block;
+  position: relative;
+  font-family: "Fredoka One", cursive;
+}
+.logtxt {
+  display: inline;
+  position: relative;
+  font-size: 1.2rem;
+  font-family: "Fredoka One", cursive;
+}
+.logtxt2 {
+  display: inline;
+  position: relative;
+  font-family: "Fredoka One", cursive;
+  font-size: 1.2rem;
+}
+.txtbox {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+}
+.progress {
+  width: 70vw;
+}
+.bar {
+  width: 95%;
+  background-color: red;
+}
+.bar2 {
+  width: 90%;
+  background-color: red;
+}
+.bar3 {
+  width: 85%;
+  background-color: red;
+}
+.bar4 {
+  width: 90%;
+  background-color: red;
+}
+.bar5 {
+  width: 70%;
+  background-color: red;
+}
+.bar6 {
+  width: 75%;
+  background-color: red;
+}
+.progress:hover{
+  transition: 0.2s ease-out;
+  width: 72vw;
+}

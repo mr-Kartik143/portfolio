@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", sans-serif;
+}
+.footer {
+  font-family: "Fredoka One", cursive;
+}
+.footer2{
+    background-color: rgb(40 41 44 / 0%);
+    margin-bottom: 0px;
+}
+@media only screen and (max-width: 667px) {
+    .footer{
+        font-size: 0.5rem;
+    }
+}
