@@ -33,7 +33,7 @@
   font-family: "Roboto", sans-serif;
 }
 .progress {
-  width: 70vw;
+  width: 60vw;
 }
 .bar {
   width: 95%;
@@ -61,5 +61,5 @@
 }
 .progress:hover{
   transition: 0.2s ease-out;
-  width: 72vw;
+  width: 62vw;
 }

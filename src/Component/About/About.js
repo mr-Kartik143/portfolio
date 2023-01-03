@@ -24,8 +24,8 @@ export default function About() {
       <div className="box">
         <div className="b2">
           <h2 className="my-2 mt-4 mx-5 text-light ffont">I am Kartik.</h2>
-          <h2 className="my-3 mx-5 text-danger ffont">I'm A Web Developer.</h2>
-          <p className="text-light mx-5 my-4 para">
+          <h2 className="mt-2 mx-5 text-danger ffont">I'm A Web Developer.</h2>
+          <p className="text-light mx-5 mt-2 mb-3 para">
             Hello I'm Professional Full Stack MERN Developer. I have mastered
             technologies like HTML, CSS, BOOTSTRAP, JAVASCRIPT, MONGODB,
             EXPRESS, REACT, NODE JS.Turning your dream website into reality is
@@ -37,7 +37,7 @@ export default function About() {
           </p>
           <button
             type="button"
-            className="btn btn-danger mx-5 my-4"
+            className="btn btn-danger mx-5 mb-5 mt-3"
             onClick={onButtonClick}
           >
             Download Resume

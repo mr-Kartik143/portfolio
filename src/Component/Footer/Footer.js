@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div>
       <footer>
-        <p className="text-light footer footer2 text-center mt-5 mb-3">
+        <p className="text-light footer footer2 text-center mt-5 mb-3 mx-5">
           Website is Designed & Developed By
           <span className="text-danger footer"> Kartik Auti </span>
           <span className="text-light footer"> || &copy; </span>

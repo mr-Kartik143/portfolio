@@ -5,14 +5,14 @@ export default function Skills() {
   return (
     <div className="container mainbox" id="skills">
       <h1 className="mt-5 text-center text-danger skilltxt">Skills</h1>
-      <h6 className="m-3 text-light text-center txt1">What I Know</h6>
+      <h6 className="m-2 text-light text-center txt1">What I Know</h6>
       <div className="txtbox">
         <h4 className="m-2 text-danger logtxt">My Creative</h4>
         <h4 className="m-2 text-light logtxt2">Skills</h4>
         <h4 className="m-2 text-danger logtxt">&</h4>
         <h4 className="m-2 text-light logtxt2">Experiences</h4>
       </div>
-      <p className="text-light mx-5 my-4 mb-5 para">
+      <p className="text-light mx-5 mt-4 mb-5 para">
         Hello All I Have many skills in my armory. I am perfect at HTML and CSS
         and BOOTSTRAP and JAVASCRIPT and REACT JS and MONGODB and EXPRESS and
         NODE JS. I use primarily those languages and 1 frame-work to build,

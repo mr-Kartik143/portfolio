@@ -5,13 +5,29 @@
 }
 .footer {
   font-family: "Fredoka One", cursive;
+  font-size: 1rem;
 }
 .footer2{
     background-color: rgb(40 41 44 / 0%);
     margin-bottom: 0px;
 }
-@media only screen and (max-width: 667px) {
+@media only screen and (max-width: 897px) {
+    .footer{
+        font-size: 0.8rem;
+    }
+}
+@media only screen and (max-width: 640px) {
+    .footer{
+        font-size: 0.6rem;
+    }
+}
+@media only screen and (max-width: 398px) {
     .footer{
         font-size: 0.5rem;
+    }
+}
+@media only screen and (max-width: 350px) {
+    .footer{
+        font-size: 0.4rem;
     }
 }

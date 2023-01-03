@@ -6,10 +6,10 @@ export default function service() {
     <div className="container servicebox" id="service">
       <h1 className="mt-5 text-center text-danger abouttxt">My Services</h1>
       <h6 className="m-3 text-light text-center txt1">What I Provide</h6>
-      <h3 className="mx-5 mt-5 text-danger text-left txt1">
+      <h3 className="mx-5 mt-4 text-danger text-left txt1">
         Full Stack Web Devlopment -
       </h3>
-      <p className="text-light mx-5 m-1 mb-5 para">
+      <p className="text-light mx-5 mt-2 mb-5 para">
         I'm master at designing website and giving awesome & nice and fresh look
         to your website. I have also designed many designs for website. I am
         using Figma to make Layout or UI Design of any website and I have
