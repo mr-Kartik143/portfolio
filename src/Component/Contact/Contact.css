@@ -33,10 +33,11 @@
 .text2 {
   color: grey;
   display: block;
-  font-size: 1rem;
+  font-size: 0.9rem;
   width: 200px;
 
 }
+
 
 .icon {
   color: rgb(251, 65, 65);

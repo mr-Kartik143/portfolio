@@ -15,7 +15,7 @@ export default function Skills() {
       <p className="text-light mx-5 mt-4 mb-5 para">
         Hello All I Have many skills in my armory. I am perfect at HTML and CSS
         and BOOTSTRAP and JAVASCRIPT and REACT JS and MONGODB and EXPRESS and
-        NODE JS. I use primarily those languages and 1 frame-work to build,
+        NODE JS and FIREBASE. I use primarily those languages and 1 frame-work to build,
         design and develop any website. I also know JAVASCRIPT and also used it
         to make website look cool. I have also worked with DATABASE so i also
         have knowledge of those also I have connnected 2 website to database

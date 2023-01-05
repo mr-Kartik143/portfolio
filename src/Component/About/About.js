@@ -28,7 +28,7 @@ export default function About() {
           <p className="text-light mx-5 mt-2 mb-3 para">
             Hello I'm Professional Full Stack MERN Developer. I have mastered
             technologies like HTML, CSS, BOOTSTRAP, JAVASCRIPT, MONGODB,
-            EXPRESS, REACT, NODE JS.Turning your dream website into reality is
+            EXPRESS, REACT, NODE JS, FIREBASE.Turning your dream website into reality is
             my job. I'm looking for remote work / Internship for Frontend /
             Backend Web Developer Position.I don't just create websites, I
             create websites that promote you / your business to world
