@@ -6,7 +6,7 @@ export default function Project() {
     <div className="container projectbox" id="project">
       <h1 className="mt-5 text-center text-danger abouttxt">My Project</h1>
       <h6 className="my-3 text-light text-center txt1">What I Do</h6>
-      <div className="mx-5 mb-5 mt-4">
+      <div className="mx-4 mb-5 mt-4">
          <ul>
           <li className="text-light ffont mb-3">
             PortFolio Website -{" "}
